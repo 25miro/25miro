@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Belmiro
-- 👀 I’m interested in Developer
-- 🌱 I’m currently learning FullStack Web Developer
-- 💞️ I’m looking to collaborate on Front-End
+- 👋 Hi, I’m Miro
+- 👀 I’m interested in Developer and Software Tester
+- 🌱 I’m currently learning FullStack Web Developer and QA
+- 💞️ I’m looking to collaborate on Front-End or Software Tester
 - 📫 How to reach me: silva.belmiro@gmail.com
 
 <!---
