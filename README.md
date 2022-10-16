@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Miro
-- 👀 I’m interested in Developer and Software Tester
-- 🌱 I’m currently learning FullStack Web Developer and QA
-- 💞️ I’m looking to collaborate on Front-End or Software Tester
+- 👀 I’m a QA Software Tester and i have interested in Automatin Tests and Development
+- 🌱 I’m currently learning QA Automation Tests (Selenium)
+<!-- - 💞️ I’m looking to collaborate on Front-End or Software Tester -->
 - 📫 How to reach me: silva.belmiro@gmail.com
 
 <!---
