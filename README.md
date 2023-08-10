@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Miro
-- 👀 I’m a QA Software Tester and i have interested in Automatin Tests and Development
-- 🌱 I’m currently learning QA Automation Tests (Selenium)
+- 👀 I’m a QA Software Tester Engineer and i have interested in Automation Tests and Development
+- 🌱 I’m currently working with manual and automation Tests
 <!-- - 💞️ I’m looking to collaborate on Front-End or Software Tester -->
 - 📫 How to reach me: silva.belmiro@gmail.com
 
